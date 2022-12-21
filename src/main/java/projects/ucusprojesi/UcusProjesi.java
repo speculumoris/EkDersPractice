@@ -7,11 +7,6 @@ import java.util.Scanner;
 public class UcusProjesi {
 
     /*
-    yolcu
-    rota
-    yas classi
-    indirim classi
-
     A şehrinden uçmak isteyen bir yolcu B şehrine 500km C şehrine  700km  D şehrine  900 km mesafededir.
     Bilet tarifesi:
     km birim fiyati : 0.10$
